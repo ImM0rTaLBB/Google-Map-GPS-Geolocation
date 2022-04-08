@@ -1,0 +1,254 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "VC2F+H2 Bang Muang, Bang Yai District, Nonthaburi, Thailand",
+      "global_code" : "7P52VC2F+H2"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bang Yai-Bang Khu Lat Road",
+               "short_name" : "3584",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bang Muang",
+               "short_name" : "Tambon Bang Muang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Bang Yai",
+               "short_name" : "อ. บางใหญ่",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11140",
+               "short_name" : "11140",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3584, Tambon Bang Muang, Amphoe Bang Yai, Chang Wat Nonthaburi 11140, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8514185,
+                  "lng" : 100.4232965
+               },
+               "southwest" : {
+                  "lat" : 13.8512761,
+                  "lng" : 100.4232816
+               }
+            },
+            "location" : {
+               "lat" : 13.8513473,
+               "lng" : 100.423289
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8526962802915,
+                  "lng" : 100.4246380302915
+               },
+               "southwest" : {
+                  "lat" : 13.8499983197085,
+                  "lng" : 100.4219400697085
+               }
+            }
+         },
+         "place_id" : "ChIJqTDlhGyQ4jARQqXaFfDTWKY",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11140",
+               "short_name" : "11140",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nonthaburi 11140, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9059191,
+                  "lng" : 100.4481959
+               },
+               "southwest" : {
+                  "lat" : 13.816829,
+                  "lng" : 100.2971799
+               }
+            },
+            "location" : {
+               "lat" : 13.8448335,
+               "lng" : 100.3610179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9059191,
+                  "lng" : 100.4481959
+               },
+               "southwest" : {
+                  "lat" : 13.816829,
+                  "lng" : 100.2971799
+               }
+            }
+         },
+         "place_id" : "ChIJk8mcD8KR4jAR0PwwZTqSARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bang Yai District",
+               "short_name" : "อ. บางใหญ่",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bang Yai District, Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9097592,
+                  "lng" : 100.4483927
+               },
+               "southwest" : {
+                  "lat" : 13.8147686,
+                  "lng" : 100.2971876
+               }
+            },
+            "location" : {
+               "lat" : 13.8448335,
+               "lng" : 100.3610179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9097592,
+                  "lng" : 100.4483927
+               },
+               "southwest" : {
+                  "lat" : 13.8147686,
+                  "lng" : 100.2971876
+               }
+            }
+         },
+         "place_id" : "ChIJjcmcD8KR4jARMFEMRTeSAQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            },
+            "location" : {
+               "lat" : 13.8621125,
+               "lng" : 100.5143528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            }
+         },
+         "place_id" : "ChIJO6t2z8CE4jARpO5V399Gdpg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

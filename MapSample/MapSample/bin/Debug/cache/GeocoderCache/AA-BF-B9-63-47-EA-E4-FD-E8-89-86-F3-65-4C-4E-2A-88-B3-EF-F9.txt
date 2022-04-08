@@ -1,0 +1,484 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "RHM2+R3 Bangkok, Thailand",
+      "global_code" : "7P52RHM2+R3"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "261",
+               "short_name" : "261",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thetsaban Nimit Tai 3 Alley",
+               "short_name" : "Thetsaban Nimit Tai 3 Alley",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lat Yao",
+               "short_name" : "Khwaeng Lat Yao",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Chatuchak",
+               "short_name" : "Khet Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "261 Thetsaban Nimit Tai 3 Alley, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8346269,
+               "lng" : 100.5501637
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8359758802915,
+                  "lng" : 100.5515126802915
+               },
+               "southwest" : {
+                  "lat" : 13.8332779197085,
+                  "lng" : 100.5488147197085
+               }
+            }
+         },
+         "place_id" : "ChIJ-zVjEI2c4jARCtEgKLllzoE",
+         "plus_code" : {
+            "compound_code" : "RHM2+V3 Bangkok, Thailand",
+            "global_code" : "7P52RHM2+V3"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "262",
+               "short_name" : "262",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Thetsaban Nimit Tai 3",
+               "short_name" : "Soi Thetsaban Nimit Tai 3",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lat Yao",
+               "short_name" : "Khwaeng Lat Yao",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Chatuchak",
+               "short_name" : "Khet Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "262 Soi Thetsaban Nimit Tai 3, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8345384,
+               "lng" : 100.5501539
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8358873802915,
+                  "lng" : 100.5515028802915
+               },
+               "southwest" : {
+                  "lat" : 13.8331894197085,
+                  "lng" : 100.5488049197085
+               }
+            }
+         },
+         "place_id" : "EmYyNjIgU29pIFRoZXRzYWJhbiBOaW1pdCBUYWkgMywgS2h3YWVuZyBMYXQgWWFvLCBLaGV0IENoYXR1Y2hhaywgS3J1bmcgVGhlcCBNYWhhIE5ha2hvbiAxMDkwMCwgVGhhaWxhbmQiGxIZChQKEgk5MMgGjZziMBEzFLX1EuDb5BCGAg",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "255",
+               "short_name" : "255",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thetsaban Nimit Tai 9",
+               "short_name" : "Thetsaban Nimit Tai 9",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lat Yao",
+               "short_name" : "Khwaeng Lat Yao",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Chatuchak",
+               "short_name" : "Khet Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "255 Thetsaban Nimit Tai 9, Khwaeng Lat Yao, Khet Chatuchak, Krung Thep Maha Nakhon 10900, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8352,
+                  "lng" : 100.5506037
+               },
+               "southwest" : {
+                  "lat" : 13.8350754,
+                  "lng" : 100.5500416
+               }
+            },
+            "location" : {
+               "lat" : 13.8351377,
+               "lng" : 100.5503227
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8364866802915,
+                  "lng" : 100.5516716302915
+               },
+               "southwest" : {
+                  "lat" : 13.8337887197085,
+                  "lng" : 100.5489736697085
+               }
+            }
+         },
+         "place_id" : "ChIJQ7x5E42c4jAROEenO9WaNjQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lat Yao",
+               "short_name" : "Lat Yao",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Chatuchak",
+               "short_name" : "Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lat Yao, Chatuchak, Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8588206,
+                  "lng" : 100.5866427
+               },
+               "southwest" : {
+                  "lat" : 13.8271162,
+                  "lng" : 100.539267
+               }
+            },
+            "location" : {
+               "lat" : 13.8421179,
+               "lng" : 100.5577407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8588206,
+                  "lng" : 100.5866427
+               },
+               "southwest" : {
+                  "lat" : 13.8271162,
+                  "lng" : 100.539267
+               }
+            }
+         },
+         "place_id" : "ChIJ7Rf9o-ic4jARMI7iXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10900",
+               "short_name" : "10900",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Chatuchak",
+               "short_name" : "Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatuchak, Bangkok 10900, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8526489,
+                  "lng" : 100.591018
+               },
+               "southwest" : {
+                  "lat" : 13.7946009,
+                  "lng" : 100.537184
+               }
+            },
+            "location" : {
+               "lat" : 13.8246196,
+               "lng" : 100.5633587
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8526489,
+                  "lng" : 100.591018
+               },
+               "southwest" : {
+                  "lat" : 13.7946009,
+                  "lng" : 100.537184
+               }
+            }
+         },
+         "place_id" : "ChIJ70IwJfic4jARkHtDebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatuchak",
+               "short_name" : "Chatuchak",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatuchak, Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8588206,
+                  "lng" : 100.5909988
+               },
+               "southwest" : {
+                  "lat" : 13.7945239,
+                  "lng" : 100.5371935
+               }
+            },
+            "location" : {
+               "lat" : 13.8361545,
+               "lng" : 100.5633676
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8588206,
+                  "lng" : 100.5909988
+               },
+               "southwest" : {
+                  "lat" : 13.7945239,
+                  "lng" : 100.5371935
+               }
+            }
+         },
+         "place_id" : "ChIJLaxrJfic4jARYE_iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

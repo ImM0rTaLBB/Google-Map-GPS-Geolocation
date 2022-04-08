@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJgQXXtZiW4jAREAaH2-aPdXo",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJrbU2mqKW4jARDPsLvt1Zc5E",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 13.7658337,
+               "lng" : 100.3594794
+            },
+            "southwest" : {
+               "lat" : 13.764016,
+               "lng" : 100.3567356
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "0.5 km",
+                  "value" : 497
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 99
+               },
+               "end_address" : "4/9 โรงเรียนคลองบางพรหม Khwaeng Thawi Watthana, Khet Thawi Watthana, Krung Thep Maha Nakhon 10170, Thailand",
+               "end_location" : {
+                  "lat" : 13.765573,
+                  "lng" : 100.3593091
+               },
+               "start_address" : "30/14 ร.ร.คลองบางพรหม Khwaeng Thawi Watthana, Khet Thawi Watthana, Krung Thep Maha Nakhon 10170, Thailand",
+               "start_location" : {
+                  "lat" : 13.764016,
+                  "lng" : 100.3569762
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.2 km",
+                        "value" : 161
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 13.7654485,
+                        "lng" : 100.3567356
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eซอย บ้านหมอ\u003c/b\u003e toward \u003cb\u003eซอย ทวีวัฒนา-กาญจนาภิเษก 24\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "ch_sAc~ocR}Gn@"
+                     },
+                     "start_location" : {
+                        "lat" : 13.764016,
+                        "lng" : 100.3569762
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 301
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 51
+                     },
+                     "end_location" : {
+                        "lat" : 13.7658337,
+                        "lng" : 100.3594794
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at the 1st cross street onto \u003cb\u003eซอย ทวีวัฒนา-กาญจนาภิเษก 24\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "aq_sAs|ocRk@iCEQAI?IASKuBGqC?MAiA"
+                     },
+                     "start_location" : {
+                        "lat" : 13.7654485,
+                        "lng" : 100.3567356
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "35 m",
+                        "value" : 35
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 14
+                     },
+                     "end_location" : {
+                        "lat" : 13.765573,
+                        "lng" : 100.3593091
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ms_sAwmpcRFBHBFBFDDDDDDB"
+                     },
+                     "start_location" : {
+                        "lat" : 13.7658337,
+                        "lng" : 100.3594794
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "ch_sAc~ocR}Gn@k@iCEQO}CG_DAiAFBPFLJJH"
+         },
+         "summary" : "ซอย บ้านหมอ and ซอย ทวีวัฒนา-กาญจนาภิเษก 24",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

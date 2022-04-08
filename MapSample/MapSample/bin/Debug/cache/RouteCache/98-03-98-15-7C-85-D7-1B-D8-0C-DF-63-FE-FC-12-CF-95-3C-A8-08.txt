@@ -1,0 +1,133 @@
+﻿{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJIQ6ULPOQ4jARP1s5V1nlrcI",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJUZpXe4-Q4jARqo0VtQ02HY0",
+         "types" : [ "route" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 13.8231383,
+               "lng" : 100.4279039
+            },
+            "southwest" : {
+               "lat" : 13.8225379,
+               "lng" : 100.4162833
+            }
+         },
+         "copyrights" : "Map data ©2019 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1.4 km",
+                  "value" : 1353
+               },
+               "duration" : {
+                  "text" : "2 mins",
+                  "value" : 140
+               },
+               "end_address" : "Nakhon In Frontage Rd, Tambon Bang Khun Kong, Amphoe Bang Kruai, Chang Wat Nonthaburi 11130, Thailand",
+               "end_location" : {
+                  "lat" : 13.8225989,
+                  "lng" : 100.4279039
+               },
+               "start_address" : "77/74, ถนนนครอินทร์, ตำบลบางคูเวียง อำเภอบางกรวย จังหวัดนนทบุรี, 11130 11130, Thailand",
+               "start_location" : {
+                  "lat" : 13.8230332,
+                  "lng" : 100.416828
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "18 m",
+                        "value" : 18
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 4
+                     },
+                     "end_location" : {
+                        "lat" : 13.8231383,
+                        "lng" : 100.4166975
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003eซอย หมู่บ้านนราวดี\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "}xjsAet{cRUX"
+                     },
+                     "start_location" : {
+                        "lat" : 13.8230332,
+                        "lng" : 100.416828
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "80 m",
+                        "value" : 80
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 13.8225583,
+                        "lng" : 100.4162833
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e to stay on \u003cb\u003eซอย หมู่บ้านนราวดี\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eRestricted usage road\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "syjsAks{cRNPPPPNRLNFZH"
+                     },
+                     "start_location" : {
+                        "lat" : 13.8231383,
+                        "lng" : 100.4166975
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1255
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 116
+                     },
+                     "end_location" : {
+                        "lat" : 13.8225989,
+                        "lng" : 100.4279039
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eทางคู่ขนาน ถนนนครอินทร์\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by 7-Eleven (on the left in 500&nbsp;m)\u003c/div\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "_vjsAwp{cR?_A?O?S?Q?S?O?U?oC?}@?iA@}B?c@?_A?Q?I?[?[@M?U?c@?a@?S?Q?c@Ac@?qA?m@?]@{C?_D?cA?C?_A?o@?C?oA?Q@e@?KCuB@UAU?[Ay@?OAcBAu@?]A_AAS"
+                     },
+                     "start_location" : {
+                        "lat" : 13.8225583,
+                        "lng" : 100.4162833
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "}xjsAet{cRUXNPb@`@b@TZH?_A?c@?e@?sF@_K?wE@aR?sIKgK"
+         },
+         "summary" : "ทางคู่ขนาน ถนนนครอินทร์",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

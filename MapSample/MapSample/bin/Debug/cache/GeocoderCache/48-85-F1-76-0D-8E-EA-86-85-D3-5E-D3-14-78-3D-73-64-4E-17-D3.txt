@@ -1,0 +1,493 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "PGWR+3J Bangkok, Thailand",
+      "global_code" : "7P52PGWR+3J"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "973",
+               "short_name" : "973",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Phloen Chit Road",
+               "short_name" : "Phloen Chit Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lumphini",
+               "short_name" : "Khwaeng Lumphini",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Pathum Wan",
+               "short_name" : "Khet Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "973 Phloen Chit Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7449914,
+               "lng" : 100.5414575
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7463403802915,
+                  "lng" : 100.5428064802915
+               },
+               "southwest" : {
+                  "lat" : 13.7436424197085,
+                  "lng" : 100.5401085197085
+               }
+            }
+         },
+         "place_id" : "ChIJSVunAABjHTERGK4GdnUtbXs",
+         "plus_code" : {
+            "compound_code" : "PGVR+XH Bangkok, Thailand",
+            "global_code" : "7P52PGVR+XH"
+         },
+         "types" : [ "establishment", "food", "lodging", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "973",
+               "short_name" : "973",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Phloen Chit Road",
+               "short_name" : "Phloen Chit Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lumphini",
+               "short_name" : "Khwaeng Lumphini",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Pathum Wan",
+               "short_name" : "Khet Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "973 Phloen Chit Rd, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7451095,
+               "lng" : 100.5414459
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7464584802915,
+                  "lng" : 100.5427948802915
+               },
+               "southwest" : {
+                  "lat" : 13.7437605197085,
+                  "lng" : 100.5400969197085
+               }
+            }
+         },
+         "place_id" : "ChIJU_FOrtqe4jAR_smCVOah1Es",
+         "plus_code" : {
+            "compound_code" : "PGWR+2H Bangkok, Thailand",
+            "global_code" : "7P52PGWR+2H"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Lumphini",
+               "short_name" : "Khwaeng Lumphini",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Pathum Wan",
+               "short_name" : "Khet Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Khwaeng Lumphini, Khet Pathum Wan, Krung Thep Maha Nakhon 10330, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7454053,
+                  "lng" : 100.541715
+               },
+               "southwest" : {
+                  "lat" : 13.7443924,
+                  "lng" : 100.5415507
+               }
+            },
+            "location" : {
+               "lat" : 13.7448964,
+               "lng" : 100.5416481
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7462478302915,
+                  "lng" : 100.5429818302915
+               },
+               "southwest" : {
+                  "lat" : 13.7435498697085,
+                  "lng" : 100.5402838697085
+               }
+            }
+         },
+         "place_id" : "ChIJpRgKsNqe4jARLgKWJ_Osb9k",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lumphini",
+               "short_name" : "Lumphini",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Pathum Wan",
+               "short_name" : "Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lumphini, Pathum Wan, Bangkok 10330, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7493739,
+                  "lng" : 100.5529221
+               },
+               "southwest" : {
+                  "lat" : 13.7227542,
+                  "lng" : 100.5365147
+               }
+            },
+            "location" : {
+               "lat" : 13.7369466,
+               "lng" : 100.543675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7493739,
+                  "lng" : 100.5529221
+               },
+               "southwest" : {
+                  "lat" : 13.7227542,
+                  "lng" : 100.5365147
+               }
+            }
+         },
+         "place_id" : "ChIJZ2rm7tie4jARwIniXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pathum Wan",
+               "short_name" : "Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pathum Wan, Bangkok 10330, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7530794,
+                  "lng" : 100.5529221
+               },
+               "southwest" : {
+                  "lat" : 13.7227542,
+                  "lng" : 100.5156772
+               }
+            },
+            "location" : {
+               "lat" : 13.7401666,
+               "lng" : 100.5352367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7530794,
+                  "lng" : 100.5529221
+               },
+               "southwest" : {
+                  "lat" : 13.7227542,
+                  "lng" : 100.5156772
+               }
+            }
+         },
+         "place_id" : "ChIJ9dY-MdSe4jAR8E3iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10330",
+               "short_name" : "10330",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Pathum Wan",
+               "short_name" : "Pathum Wan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pathum Wan, Bangkok 10330, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.753179,
+                  "lng" : 100.5528919
+               },
+               "southwest" : {
+                  "lat" : 13.722786,
+                  "lng" : 100.515601
+               }
+            },
+            "location" : {
+               "lat" : 13.7401666,
+               "lng" : 100.5352367
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.753179,
+                  "lng" : 100.5528919
+               },
+               "southwest" : {
+                  "lat" : 13.722786,
+                  "lng" : 100.515601
+               }
+            }
+         },
+         "place_id" : "ChIJUZm8DdSe4jARoH1DebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

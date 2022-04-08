@@ -1,0 +1,156 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "XW8X+55 Bung Nam Rak, Bang Nam Priao District, Chachoengsao, Thailand",
+      "global_code" : "7P52XW8X+55"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Unnamed Road",
+               "short_name" : "Unnamed Road",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bung Nam Rak",
+               "short_name" : "Tambon Bung Nam Rak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Bang Nam Priao",
+               "short_name" : "Amphoe Bang Nam Priao",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Chachoengsao",
+               "short_name" : "จ.ฉะเชิงเทรา",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road, Tambon Bung Nam Rak, Amphoe Bang Nam Priao, Chang Wat Chachoengsao, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9653047,
+                  "lng" : 100.9475392
+               },
+               "southwest" : {
+                  "lat" : 13.9640506,
+                  "lng" : 100.9474603
+               }
+            },
+            "location" : {
+               "lat" : 13.9646871,
+               "lng" : 100.9474755
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9660266302915,
+                  "lng" : 100.9488487302915
+               },
+               "southwest" : {
+                  "lat" : 13.9633286697085,
+                  "lng" : 100.9461507697085
+               }
+            }
+         },
+         "place_id" : "ChIJH8uyfJJ0HTERZmEUIEycXXQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bang Nam Priao District",
+               "short_name" : "Bang Nam Priao District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chachoengsao",
+               "short_name" : "จ.ฉะเชิงเทรา",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bang Nam Priao District, Chachoengsao, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.976755,
+                  "lng" : 101.1621723
+               },
+               "southwest" : {
+                  "lat" : 13.7619926,
+                  "lng" : 100.9022621
+               }
+            },
+            "location" : {
+               "lat" : 13.8956779,
+               "lng" : 101.0259275
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.976755,
+                  "lng" : 101.1621723
+               },
+               "southwest" : {
+                  "lat" : 13.7619926,
+                  "lng" : 100.9022621
+               }
+            }
+         },
+         "place_id" : "ChIJgx56dZcNHTEREFi04UrYAwM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

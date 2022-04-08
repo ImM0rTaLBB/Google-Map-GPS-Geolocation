@@ -1,0 +1,606 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "QG3P+M7 Bangkok, Thailand",
+      "global_code" : "7P52QG3P+M7"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens Apartment",
+               "short_name" : "Athens Apartment",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Khwaeng Thanon Phaya Thai",
+               "short_name" : "Khwaeng Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Ratchathewi",
+               "short_name" : "Khet Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Athens Apartment, Khwaeng Thanon Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7544582,
+                  "lng" : 100.5357531
+               },
+               "southwest" : {
+                  "lat" : 13.754193,
+                  "lng" : 100.5353791
+               }
+            },
+            "location" : {
+               "lat" : 13.7542846,
+               "lng" : 100.5356102
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7556745802915,
+                  "lng" : 100.5369150802915
+               },
+               "southwest" : {
+                  "lat" : 13.7529766197085,
+                  "lng" : 100.5342171197085
+               }
+            }
+         },
+         "place_id" : "ChIJgT3TeMme4jARsa4Ccv4MXBE",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phetchaburi Road",
+               "short_name" : "Phetchaburi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Thanon Phaya Thai",
+               "short_name" : "Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Ratchathewi",
+               "short_name" : "Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21/6 ซอย เพชรบุรี 13 Phetchaburi Rd, Thanon Phaya Thai, Ratchathewi, Bangkok 10400, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.754193,
+               "lng" : 100.5357773
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7555419802915,
+                  "lng" : 100.5371262802915
+               },
+               "southwest" : {
+                  "lat" : 13.7528440197085,
+                  "lng" : 100.5344283197085
+               }
+            }
+         },
+         "place_id" : "ChIJHd2mecme4jARJOrs5Gw50VY",
+         "plus_code" : {
+            "compound_code" : "QG3P+M8 Bangkok, Thailand",
+            "global_code" : "7P52QG3P+M8"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Phetchaburi Road",
+               "short_name" : "Phetchaburi Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Soi Phetchaburi 13",
+               "short_name" : "Soi Phetchaburi 13",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Thanon Phaya Thai",
+               "short_name" : "Khwaeng Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Ratchathewi",
+               "short_name" : "Khet Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Phetchaburi Rd, Khwaeng Thanon Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7542516,
+               "lng" : 100.5357848
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7556005802915,
+                  "lng" : 100.5371337802915
+               },
+               "southwest" : {
+                  "lat" : 13.7529026197085,
+                  "lng" : 100.5344358197085
+               }
+            }
+         },
+         "place_id" : "ChIJ81mrecme4jAR7Wef0myJfw4",
+         "plus_code" : {
+            "compound_code" : "QG3P+P8 Bangkok, Thailand",
+            "global_code" : "7P52QG3P+P8"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "9",
+               "short_name" : "9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Phetchaburi 11",
+               "short_name" : "Soi Phetchaburi 11",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Thanon Phaya Thai",
+               "short_name" : "Khwaeng Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Ratchathewi",
+               "short_name" : "Khet Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "9 Soi Phetchaburi 11, Khwaeng Thanon Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7544409,
+               "lng" : 100.5354205
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7557898802915,
+                  "lng" : 100.5367694802915
+               },
+               "southwest" : {
+                  "lat" : 13.7530919197085,
+                  "lng" : 100.5340715197085
+               }
+            }
+         },
+         "place_id" : "Emk5IFNvaSBQaGV0Y2hhYnVyaSAxMSwgS2h3YWVuZyBUaGFub24gUGhheWEgVGhhaSwgS2hldCBSYXRjaGF0aGV3aSwgS3J1bmcgVGhlcCBNYWhhIE5ha2hvbiAxMDQwMCwgVGhhaWxhbmQiGhIYChQKEglt_hGByZ7iMBHGp9yji4VvdhAJ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soi Phetchaburi 11 Yeak 2",
+               "short_name" : "Soi Phetchaburi 11 Yeak 2",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Thanon Phaya Thai",
+               "short_name" : "Khwaeng Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Ratchathewi",
+               "short_name" : "Khet Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soi Phetchaburi 11 Yeak 2, Khwaeng Thanon Phaya Thai, Khet Ratchathewi, Krung Thep Maha Nakhon 10400, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7542657,
+                  "lng" : 100.5357223
+               },
+               "southwest" : {
+                  "lat" : 13.7541379,
+                  "lng" : 100.5353529
+               }
+            },
+            "location" : {
+               "lat" : 13.7542017,
+               "lng" : 100.5355376
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7555507802915,
+                  "lng" : 100.5368865802915
+               },
+               "southwest" : {
+                  "lat" : 13.7528528197085,
+                  "lng" : 100.5341886197085
+               }
+            }
+         },
+         "place_id" : "ChIJ7VnBfsme4jARuMzfG4IWadQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thanon Phaya Thai",
+               "short_name" : "Thanon Phaya Thai",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Ratchathewi",
+               "short_name" : "Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thanon Phaya Thai, Ratchathewi, Bangkok 10400, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7660647,
+                  "lng" : 100.5433784
+               },
+               "southwest" : {
+                  "lat" : 13.7498666,
+                  "lng" : 100.5316582
+               }
+            },
+            "location" : {
+               "lat" : 13.758563,
+               "lng" : 100.5394558
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7660647,
+                  "lng" : 100.5433784
+               },
+               "southwest" : {
+                  "lat" : 13.7498666,
+                  "lng" : 100.5316582
+               }
+            }
+         },
+         "place_id" : "ChIJyR5QJbae4jARgI_iXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ratchathewi",
+               "short_name" : "Ratchathewi",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ratchathewi, Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7742449,
+                  "lng" : 100.5648528
+               },
+               "southwest" : {
+                  "lat" : 13.7477764,
+                  "lng" : 100.5190604
+               }
+            },
+            "location" : {
+               "lat" : 13.7543361,
+               "lng" : 100.5380494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7742449,
+                  "lng" : 100.5648528
+               },
+               "southwest" : {
+                  "lat" : 13.7477764,
+                  "lng" : 100.5190604
+               }
+            }
+         },
+         "place_id" : "ChIJtRHqw7me4jAR0E_iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10400",
+               "short_name" : "10400",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok 10400, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8011299,
+                  "lng" : 100.57487
+               },
+               "southwest" : {
+                  "lat" : 13.747993,
+                  "lng" : 100.518899
+               }
+            },
+            "location" : {
+               "lat" : 13.7739818,
+               "lng" : 100.546488
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8011299,
+                  "lng" : 100.57487
+               },
+               "southwest" : {
+                  "lat" : 13.747993,
+                  "lng" : 100.518899
+               }
+            }
+         },
+         "place_id" : "ChIJGw348qOe4jARwH9DebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

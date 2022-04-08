@@ -1,0 +1,542 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "RQH7+3C Bangkok, Thailand",
+      "global_code" : "7P52RQH7+3C"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "21/9",
+               "short_name" : "21/9",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thanon Rat Uthit",
+               "short_name" : "Thanon Rat Uthit",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Saen Saep",
+               "short_name" : "Khwaeng Saen Saep",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Min Buri",
+               "short_name" : "Khet Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "21/9 Thanon Rat Uthit, Khwaeng Saen Saep, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8277669,
+               "lng" : 100.7635762
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8291158802915,
+                  "lng" : 100.7649251802915
+               },
+               "southwest" : {
+                  "lat" : 13.8264179197085,
+                  "lng" : 100.7622272197085
+               }
+            }
+         },
+         "place_id" : "ChIJLaKd1hplHTERe1yajXqgKTs",
+         "plus_code" : {
+            "compound_code" : "RQH7+4C Bangkok, Thailand",
+            "global_code" : "7P52RQH7+4C"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "28",
+               "short_name" : "28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thanon Rat Uthit",
+               "short_name" : "Thanon Rat Uthit",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Saen Saep",
+               "short_name" : "Khwaeng Saen Saep",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Min Buri",
+               "short_name" : "Khet Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "28 Thanon Rat Uthit, Khwaeng Saen Saep, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.827988,
+               "lng" : 100.763129
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8293369802915,
+                  "lng" : 100.7644779802915
+               },
+               "southwest" : {
+                  "lat" : 13.8266390197085,
+                  "lng" : 100.7617800197085
+               }
+            }
+         },
+         "place_id" : "ChIJwRX7KBtlHTER_Z2JsbKYzTQ",
+         "plus_code" : {
+            "compound_code" : "RQH7+57 Bangkok, Thailand",
+            "global_code" : "7P52RQH7+57"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soi Wang Bu",
+               "short_name" : "Soi Wang Bu",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Saen Saep",
+               "short_name" : "Khwaeng Saen Saep",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Min Buri",
+               "short_name" : "Khet Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soi Wang Bu, Khwaeng Saen Saep, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8289537,
+                  "lng" : 100.7638654
+               },
+               "southwest" : {
+                  "lat" : 13.8270294,
+                  "lng" : 100.762738
+               }
+            },
+            "location" : {
+               "lat" : 13.8279916,
+               "lng" : 100.7633017
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8293405302915,
+                  "lng" : 100.7646506802915
+               },
+               "southwest" : {
+                  "lat" : 13.8266425697085,
+                  "lng" : 100.7619527197085
+               }
+            }
+         },
+         "place_id" : "ChIJNS8sKBtlHTERepvrpw155wE",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "22",
+               "short_name" : "22",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Thanon Rat Uthit",
+               "short_name" : "Thanon Rat Uthit",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Saen Saep",
+               "short_name" : "Khwaeng Saen Saep",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Min Buri",
+               "short_name" : "Khet Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "22 Thanon Rat Uthit, Khwaeng Saen Saep, Khet Min Buri, Krung Thep Maha Nakhon 10510, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8270559,
+               "lng" : 100.7639155
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8284048802915,
+                  "lng" : 100.7652644802915
+               },
+               "southwest" : {
+                  "lat" : 13.8257069197085,
+                  "lng" : 100.7625665197085
+               }
+            }
+         },
+         "place_id" : "El0yMiBUaGFub24gUmF0IFV0aGl0LCBLaHdhZW5nIFNhZW4gU2FlcCwgS2hldCBNaW4gQnVyaSwgS3J1bmcgVGhlcCBNYWhhIE5ha2hvbiAxMDUxMCwgVGhhaWxhbmQiGhIYChQKEgnZLNQtBWUdMREws6n7eoB8BhAW",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saen Saep",
+               "short_name" : "Saen Saep",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Min Buri",
+               "short_name" : "Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Saen Saep, Min Buri, Bangkok 10510, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8493737,
+                  "lng" : 100.8080027
+               },
+               "southwest" : {
+                  "lat" : 13.7754715,
+                  "lng" : 100.7356417
+               }
+            },
+            "location" : {
+               "lat" : 13.8044266,
+               "lng" : 100.766163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8493737,
+                  "lng" : 100.8080027
+               },
+               "southwest" : {
+                  "lat" : 13.7754715,
+                  "lng" : 100.7356417
+               }
+            }
+         },
+         "place_id" : "ChIJp5aEK6FlHTERQIriXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Min Buri",
+               "short_name" : "Min Buri",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Min Buri, Bangkok 10510, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8493737,
+                  "lng" : 100.8080027
+               },
+               "southwest" : {
+                  "lat" : 13.7731922,
+                  "lng" : 100.6966739
+               }
+            },
+            "location" : {
+               "lat" : 13.8054193,
+               "lng" : 100.7436084
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8493737,
+                  "lng" : 100.8080027
+               },
+               "southwest" : {
+                  "lat" : 13.7731922,
+                  "lng" : 100.6966739
+               }
+            }
+         },
+         "place_id" : "ChIJ15GKhlRkHTERIE7iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10510",
+               "short_name" : "10510",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10510, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.931544,
+                  "lng" : 100.8085349
+               },
+               "southwest" : {
+                  "lat" : 13.7712701,
+                  "lng" : 100.670766
+               }
+            },
+            "location" : {
+               "lat" : 13.8402137,
+               "lng" : 100.7323332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.931544,
+                  "lng" : 100.8085349
+               },
+               "southwest" : {
+                  "lat" : 13.7712701,
+                  "lng" : 100.670766
+               }
+            }
+         },
+         "place_id" : "ChIJVUzvQc9kHTER0HxDebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

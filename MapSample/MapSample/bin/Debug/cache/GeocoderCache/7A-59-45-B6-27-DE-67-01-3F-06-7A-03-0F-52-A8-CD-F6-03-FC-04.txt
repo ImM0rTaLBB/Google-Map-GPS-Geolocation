@@ -1,0 +1,498 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "VFH4+RW Bang Rak Noi, Mueang Nonthaburi District, Nonthaburi, Thailand",
+      "global_code" : "7P52VFH4+RW"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "123/539",
+               "short_name" : "123/539",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Mu Ban Nanthana",
+               "short_name" : "Soi Mu Ban Nanthana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bang Rak Noi",
+               "short_name" : "Tambon Bang Rak Noi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Mueang Nonthaburi",
+               "short_name" : "Amphoe Mueang Nonthaburi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "123/539 Soi Mu Ban Nanthana, Tambon Bang Rak Noi, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8792929,
+               "lng" : 100.4572285
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8806418802915,
+                  "lng" : 100.4585774802915
+               },
+               "southwest" : {
+                  "lat" : 13.8779439197085,
+                  "lng" : 100.4558795197085
+               }
+            }
+         },
+         "place_id" : "ChIJ6xynkkuF4jAR4a2vIzZiZuk",
+         "plus_code" : {
+            "compound_code" : "VFH4+PV Bang Rak Noi, Mueang Nonthaburi District, Nonthaburi, Thailand",
+            "global_code" : "7P52VFH4+PV"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "123/523",
+               "short_name" : "123/523",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Mu Ban Nanthana",
+               "short_name" : "Soi Mu Ban Nanthana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bang Rak Noi",
+               "short_name" : "Tambon Bang Rak Noi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Mueang Nonthaburi",
+               "short_name" : "Amphoe Mueang Nonthaburi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "123/523 Soi Mu Ban Nanthana, Tambon Bang Rak Noi, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8794887,
+               "lng" : 100.4577783
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8808376802915,
+                  "lng" : 100.4591272802915
+               },
+               "southwest" : {
+                  "lat" : 13.8781397197085,
+                  "lng" : 100.4564293197085
+               }
+            }
+         },
+         "place_id" : "ChIJXcKs6kuF4jARMjz98ycbp-s",
+         "plus_code" : {
+            "compound_code" : "VFH5+Q4 Bang Rak Noi, Mueang Nonthaburi District, Nonthaburi, Thailand",
+            "global_code" : "7P52VFH5+Q4"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soi Mu Ban Suan Non Ville",
+               "short_name" : "Soi Mu Ban Suan Non Ville",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bang Rak Noi",
+               "short_name" : "Tambon Bang Rak Noi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Mueang Nonthaburi",
+               "short_name" : "Amphoe Mueang Nonthaburi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soi Mu Ban Suan Non Ville, Tambon Bang Rak Noi, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8799412,
+                  "lng" : 100.4583176
+               },
+               "southwest" : {
+                  "lat" : 13.8797221,
+                  "lng" : 100.457222
+               }
+            },
+            "location" : {
+               "lat" : 13.879837,
+               "lng" : 100.4577687
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8811806302915,
+                  "lng" : 100.4591187802915
+               },
+               "southwest" : {
+                  "lat" : 13.8784826697085,
+                  "lng" : 100.4564208197085
+               }
+            }
+         },
+         "place_id" : "ChIJh2mu6UuF4jAR0r-0vggAkiU",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "123",
+               "short_name" : "123",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Mu Ban Nanthana",
+               "short_name" : "Soi Mu Ban Nanthana",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Bang Rak Noi",
+               "short_name" : "Tambon Bang Rak Noi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Mueang Nonthaburi",
+               "short_name" : "Amphoe Mueang Nonthaburi",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "123 Soi Mu Ban Nanthana, Tambon Bang Rak Noi, Amphoe Mueang Nonthaburi, Chang Wat Nonthaburi 11000, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8792677,
+               "lng" : 100.4578573
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8806166802915,
+                  "lng" : 100.4592062802915
+               },
+               "southwest" : {
+                  "lat" : 13.8779187197085,
+                  "lng" : 100.4565083197085
+               }
+            }
+         },
+         "place_id" : "EmwxMjMgU29pIE11IEJhbiBOYW50aGFuYSwgVGFtYm9uIEJhbmcgUmFrIE5vaSwgQW1waG9lIE11ZWFuZyBOb250aGFidXJpLCBDaGFuZyBXYXQgTm9udGhhYnVyaSAxMTAwMCwgVGhhaWxhbmQiGhIYChQKEgmNaIONS4XiMBGogaGvLEWN5BB7",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bang Rak Noi",
+               "short_name" : "Bang Rak Noi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mueang Nonthaburi District",
+               "short_name" : "Mueang Nonthaburi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bang Rak Noi, Mueang Nonthaburi District, Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8926716,
+                  "lng" : 100.472956
+               },
+               "southwest" : {
+                  "lat" : 13.8483014,
+                  "lng" : 100.4474204
+               }
+            },
+            "location" : {
+               "lat" : 13.8673107,
+               "lng" : 100.4581796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8926716,
+                  "lng" : 100.472956
+               },
+               "southwest" : {
+                  "lat" : 13.8483014,
+                  "lng" : 100.4474204
+               }
+            }
+         },
+         "place_id" : "ChIJk2epx7Wa4jARIJUMRTeSAQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11000",
+               "short_name" : "11000",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Mueang Nonthaburi District",
+               "short_name" : "Mueang Nonthaburi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mueang Nonthaburi District, Nonthaburi 11000, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.894391,
+                  "lng" : 100.550195
+               },
+               "southwest" : {
+                  "lat" : 13.824767,
+                  "lng" : 100.430301
+               }
+            },
+            "location" : {
+               "lat" : 13.8658492,
+               "lng" : 100.4941285
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.894391,
+                  "lng" : 100.550195
+               },
+               "southwest" : {
+                  "lat" : 13.824767,
+                  "lng" : 100.430301
+               }
+            }
+         },
+         "place_id" : "ChIJ6_mnvyGb4jARgPswZTqSARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mueang Nonthaburi District",
+               "short_name" : "Mueang Nonthaburi District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mueang Nonthaburi District, Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8952042,
+                  "lng" : 100.5503983
+               },
+               "southwest" : {
+                  "lat" : 13.8095597,
+                  "lng" : 100.42701
+               }
+            },
+            "location" : {
+               "lat" : 13.862106,
+               "lng" : 100.5143696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8952042,
+                  "lng" : 100.5503983
+               },
+               "southwest" : {
+                  "lat" : 13.8095597,
+                  "lng" : 100.42701
+               }
+            }
+         },
+         "place_id" : "ChIJ_VilvyGb4jAREFEMRTeSAQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            },
+            "location" : {
+               "lat" : 13.8621125,
+               "lng" : 100.5143528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            }
+         },
+         "place_id" : "ChIJO6t2z8CE4jARpO5V399Gdpg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

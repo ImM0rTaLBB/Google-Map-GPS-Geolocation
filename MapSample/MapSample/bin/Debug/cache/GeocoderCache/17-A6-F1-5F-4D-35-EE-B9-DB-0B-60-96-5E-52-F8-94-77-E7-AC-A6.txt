@@ -1,0 +1,385 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "RGXR+58 Bangkok, Thailand",
+      "global_code" : "7P52RGXR+58"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "97/14",
+               "short_name" : "97/14",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pracha Chuen Road",
+               "short_name" : "Pracha Chuen Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Wong Sawang",
+               "short_name" : "Khwaeng Wong Sawang",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Bang Sue",
+               "short_name" : "Khet Bang Sue",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "97/14 Pracha Chuen Rd, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8480034,
+               "lng" : 100.540825
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8493523802915,
+                  "lng" : 100.5421739802915
+               },
+               "southwest" : {
+                  "lat" : 13.8466544197085,
+                  "lng" : 100.5394760197085
+               }
+            }
+         },
+         "place_id" : "ChIJnbyFApic4jARkCgD-UCVNhw",
+         "plus_code" : {
+            "compound_code" : "RGXR+68 Bangkok, Thailand",
+            "global_code" : "7P52RGXR+68"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wong Sawang",
+               "short_name" : "Wong Sawang",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Bang Sue",
+               "short_name" : "Bang Sue",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ซอย ประชาชื่น 44 แขวง วงศ์สว่าง เขต บางซื่อ กรุงเทพมหานคร 10800 ประเทศไทย Wong Sawang, Bang Sue, Bangkok 10800, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.8481625,
+               "lng" : 100.5410107
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8495114802915,
+                  "lng" : 100.5423596802915
+               },
+               "southwest" : {
+                  "lat" : 13.8468135197085,
+                  "lng" : 100.5396617197085
+               }
+            }
+         },
+         "place_id" : "ChIJU0J2-Zec4jARZVLSXT6defM",
+         "plus_code" : {
+            "compound_code" : "RGXR+7C Bangkok, Thailand",
+            "global_code" : "7P52RGXR+7C"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soi Pracha Chuen 43",
+               "short_name" : "Soi Pracha Chuen 43",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Wong Sawang",
+               "short_name" : "Khwaeng Wong Sawang",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Bang Sue",
+               "short_name" : "Khet Bang Sue",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soi Pracha Chuen 43, Khwaeng Wong Sawang, Khet Bang Sue, Krung Thep Maha Nakhon 10800, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8481211,
+                  "lng" : 100.5416897
+               },
+               "southwest" : {
+                  "lat" : 13.8468939,
+                  "lng" : 100.5405652
+               }
+            },
+            "location" : {
+               "lat" : 13.8475033,
+               "lng" : 100.5411226
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8488564802915,
+                  "lng" : 100.5424764302915
+               },
+               "southwest" : {
+                  "lat" : 13.8461585197085,
+                  "lng" : 100.5397784697085
+               }
+            }
+         },
+         "place_id" : "ChIJzwOi9pec4jAR8hfcCtT_wIk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wong Sawang",
+               "short_name" : "Wong Sawang",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Bang Sue",
+               "short_name" : "Bang Sue",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wong Sawang, Bang Sue, Bangkok 10800, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8496853,
+                  "lng" : 100.5437969
+               },
+               "southwest" : {
+                  "lat" : 13.8130707,
+                  "lng" : 100.5063032
+               }
+            },
+            "location" : {
+               "lat" : 13.8291554,
+               "lng" : 100.5267991
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8496853,
+                  "lng" : 100.5437969
+               },
+               "southwest" : {
+                  "lat" : 13.8130707,
+                  "lng" : 100.5063032
+               }
+            }
+         },
+         "place_id" : "ChIJsS9Vo36b4jARcbs4ZZTsybc",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10800",
+               "short_name" : "10800",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bang Sue",
+               "short_name" : "Bang Sue",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bang Sue, Bangkok 10800, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8498798,
+                  "lng" : 100.544787
+               },
+               "southwest" : {
+                  "lat" : 13.797857,
+                  "lng" : 100.50624
+               }
+            },
+            "location" : {
+               "lat" : 13.8206972,
+               "lng" : 100.5239867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8498798,
+                  "lng" : 100.544787
+               },
+               "southwest" : {
+                  "lat" : 13.797857,
+                  "lng" : 100.50624
+               }
+            }
+         },
+         "place_id" : "ChIJx-GToIGb4jARwHtDebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

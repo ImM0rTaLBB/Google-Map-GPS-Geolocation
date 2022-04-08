@@ -1,0 +1,547 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "QFV7+F4 Bangkok, Thailand",
+      "global_code" : "7P52QFV7+F4"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "65/28",
+               "short_name" : "65/28",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "ถนน ชัยพฤกษ์",
+               "short_name" : "ถนน ชัยพฤกษ์",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "ซอย ชัยพฤกษ์ 27",
+               "short_name" : "ซอย ชัยพฤกษ์ 27",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Taling Chan",
+               "short_name" : "Khwaeng Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Taling Chan",
+               "short_name" : "Khet Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "65/28 ถนน ชัยพฤกษ์ Khwaeng Taling Chan, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7938165,
+               "lng" : 100.4629224
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7951654802915,
+                  "lng" : 100.4642713802915
+               },
+               "southwest" : {
+                  "lat" : 13.7924675197085,
+                  "lng" : 100.4615734197085
+               }
+            }
+         },
+         "place_id" : "ChIJD8shuyKa4jAR2X6IOW06BSw",
+         "plus_code" : {
+            "compound_code" : "QFV7+G5 Bangkok, Thailand",
+            "global_code" : "7P52QFV7+G5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "19",
+               "short_name" : "19",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Chaiyaphruek 27 Alley",
+               "short_name" : "Chaiyaphruek 27 Alley",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Taling Chan",
+               "short_name" : "Khwaeng Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Taling Chan",
+               "short_name" : "Khet Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19 Chaiyaphruek 27 Alley, Khwaeng Taling Chan, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7935665,
+               "lng" : 100.4631695
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7949154802915,
+                  "lng" : 100.4645184802915
+               },
+               "southwest" : {
+                  "lat" : 13.7922175197085,
+                  "lng" : 100.4618205197085
+               }
+            }
+         },
+         "place_id" : "ChIJUzTxv7-b4jARous25O7aR0M",
+         "plus_code" : {
+            "compound_code" : "QFV7+C7 Bangkok, Thailand",
+            "global_code" : "7P52QFV7+C7"
+         },
+         "types" : [ "establishment", "food", "point_of_interest", "restaurant" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "65",
+               "short_name" : "65",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Soi Phon Phaibun",
+               "short_name" : "Soi Phon Phaibun",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Taling Chan",
+               "short_name" : "Khwaeng Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Taling Chan",
+               "short_name" : "Khet Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "65 Soi Phon Phaibun, Khwaeng Taling Chan, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.793804,
+               "lng" : 100.4631851
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7951529802915,
+                  "lng" : 100.4645340802915
+               },
+               "southwest" : {
+                  "lat" : 13.7924550197085,
+                  "lng" : 100.4618361197085
+               }
+            }
+         },
+         "place_id" : "EmI2NSBTb2kgUGhvbiBQaGFpYnVuLCBLaHdhZW5nIFRhbGluZyBDaGFuLCBLaGV0IFRhbGluZyBDaGFuLCBLcnVuZyBUaGVwIE1haGEgTmFraG9uIDEwMTcwLCBUaGFpbGFuZCIaEhgKFAoSCc0C1rsimuIwEQtm_eJYI747EEE",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Soi Phon Phaibun",
+               "short_name" : "Soi Phon Phaibun",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Taling Chan",
+               "short_name" : "Khwaeng Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Taling Chan",
+               "short_name" : "Khet Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Soi Phon Phaibun, Khwaeng Taling Chan, Khet Taling Chan, Krung Thep Maha Nakhon 10170, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7940931,
+                  "lng" : 100.463119
+               },
+               "southwest" : {
+                  "lat" : 13.7936283,
+                  "lng" : 100.4623845
+               }
+            },
+            "location" : {
+               "lat" : 13.793771,
+               "lng" : 100.4626234
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7952096802915,
+                  "lng" : 100.4641007302915
+               },
+               "southwest" : {
+                  "lat" : 13.7925117197085,
+                  "lng" : 100.4614027697085
+               }
+            }
+         },
+         "place_id" : "ChIJMWAjpSKa4jARgiCdNQqHAP8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taling Chan",
+               "short_name" : "Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Taling Chan",
+               "short_name" : "Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taling Chan, Bangkok 10170, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8004936,
+                  "lng" : 100.4697406
+               },
+               "southwest" : {
+                  "lat" : 13.777211,
+                  "lng" : 100.4252156
+               }
+            },
+            "location" : {
+               "lat" : 13.7892766,
+               "lng" : 100.4565159
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8004936,
+                  "lng" : 100.4697406
+               },
+               "southwest" : {
+                  "lat" : 13.777211,
+                  "lng" : 100.4252156
+               }
+            }
+         },
+         "place_id" : "ChIJn6CVmgOa4jARIIziXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taling Chan",
+               "short_name" : "Taling Chan",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taling Chan, Bangkok 10170, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.8013016,
+                  "lng" : 100.4697406
+               },
+               "southwest" : {
+                  "lat" : 13.7399345,
+                  "lng" : 100.4061439
+               }
+            },
+            "location" : {
+               "lat" : 13.7733179,
+               "lng" : 100.4284178
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.8013016,
+                  "lng" : 100.4697406
+               },
+               "southwest" : {
+                  "lat" : 13.7399345,
+                  "lng" : 100.4061439
+               }
+            }
+         },
+         "place_id" : "ChIJI4-FXFiX4jARsE7iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10170",
+               "short_name" : "10170",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "10170, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.804188,
+                  "lng" : 100.4695419
+               },
+               "southwest" : {
+                  "lat" : 13.7356489,
+                  "lng" : 100.327785
+               }
+            },
+            "location" : {
+               "lat" : 13.7742732,
+               "lng" : 100.4059456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.804188,
+                  "lng" : 100.4695419
+               },
+               "southwest" : {
+                  "lat" : 13.7356489,
+                  "lng" : 100.327785
+               }
+            }
+         },
+         "place_id" : "ChIJm6VZwCaX4jARUHxDebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

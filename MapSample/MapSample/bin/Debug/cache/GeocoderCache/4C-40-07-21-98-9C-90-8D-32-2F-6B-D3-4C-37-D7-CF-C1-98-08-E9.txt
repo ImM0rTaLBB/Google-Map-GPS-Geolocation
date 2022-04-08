@@ -1,0 +1,557 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "PG9J+W9 Bangkok, Thailand",
+      "global_code" : "7P52PG9J+W9"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prima Sathorn",
+               "short_name" : "Prima Sathorn",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "206",
+               "short_name" : "206",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Naradhiwat Rajanagarindra Road",
+               "short_name" : "Naradhiwat Rajanagarindra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Yan Nawa",
+               "short_name" : "Khwaeng Yan Nawa",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Sathon",
+               "short_name" : "Khet Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prima Sathorn 206 Naradhiwat Rajanagarindra Rd, Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7199169,
+               "lng" : 100.5309051
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7212658802915,
+                  "lng" : 100.5322540802915
+               },
+               "southwest" : {
+                  "lat" : 13.7185679197085,
+                  "lng" : 100.5295561197085
+               }
+            }
+         },
+         "place_id" : "ChIJdTo5IjOf4jARbwIu-u_gwY4",
+         "plus_code" : {
+            "compound_code" : "PG9J+X9 Bangkok, Thailand",
+            "global_code" : "7P52PG9J+X9"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ป้ายรถประจำทาง นราธิวาส ซอย 4",
+               "short_name" : "ป้ายรถประจำทาง นราธิวาส ซอย 4",
+               "types" : [
+                  "bus_station",
+                  "establishment",
+                  "point_of_interest",
+                  "transit_station"
+               ]
+            },
+            {
+               "long_name" : "Khwaeng Yan Nawa",
+               "short_name" : "Khwaeng Yan Nawa",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Sathon",
+               "short_name" : "Khet Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "ป้ายรถประจำทาง นราธิวาส ซอย 4 Khwaeng Yan Nawa, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.7197215,
+               "lng" : 100.531059
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7210704802915,
+                  "lng" : 100.5324079802915
+               },
+               "southwest" : {
+                  "lat" : 13.7183725197085,
+                  "lng" : 100.5297100197085
+               }
+            }
+         },
+         "place_id" : "ChIJLaNyGDOf4jARK1WyWXW-yvA",
+         "plus_code" : {
+            "compound_code" : "PG9J+VC Bangkok, Thailand",
+            "global_code" : "7P52PG9J+VC"
+         },
+         "types" : [
+            "bus_station",
+            "establishment",
+            "point_of_interest",
+            "transit_station"
+         ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "605",
+               "short_name" : "605",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Naradhiwas Rajanagarindra Road",
+               "short_name" : "Naradhiwas Rajanagarindra Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Thung Maha Mek",
+               "short_name" : "Khwaeng Thung Maha Mek",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Sathon",
+               "short_name" : "Khet Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "605 Naradhiwas Rajanagarindra Rd, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 13.719966,
+               "lng" : 100.5310622
+            },
+            "location_type" : "RANGE_INTERPOLATED",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7213149802915,
+                  "lng" : 100.5324111802915
+               },
+               "southwest" : {
+                  "lat" : 13.7186170197085,
+                  "lng" : 100.5297132197085
+               }
+            }
+         },
+         "place_id" : "Em02MDUgTmFyYWRoaXdhcyBSYWphbmFnYXJpbmRyYSBSZCwgS2h3YWVuZyBUaHVuZyBNYWhhIE1laywgS2hldCBTYXRob24sIEtydW5nIFRoZXAgTWFoYSBOYWtob24gMTAxMjAsIFRoYWlsYW5kIhsSGQoUChIJmyg4IDOf4jARfstEusWQSEMQ3QQ",
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thanon Naradhiwat Rajanagarindra",
+               "short_name" : "Thanon Naradhiwat Rajanagarindra",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Khwaeng Thung Maha Mek",
+               "short_name" : "Khwaeng Thung Maha Mek",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Khet Sathon",
+               "short_name" : "Khet Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Krung Thep Maha Nakhon",
+               "short_name" : "Krung Thep Maha Nakhon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Thanon Naradhiwat Rajanagarindra, Khwaeng Thung Maha Mek, Khet Sathon, Krung Thep Maha Nakhon 10120, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7204857,
+                  "lng" : 100.5310742
+               },
+               "southwest" : {
+                  "lat" : 13.7199423,
+                  "lng" : 100.5308023
+               }
+            },
+            "location" : {
+               "lat" : 13.7202135,
+               "lng" : 100.5309372
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7215629802915,
+                  "lng" : 100.5322872302915
+               },
+               "southwest" : {
+                  "lat" : 13.7188650197085,
+                  "lng" : 100.5295892697085
+               }
+            }
+         },
+         "place_id" : "ChIJmyg4IDOf4jARf8tEusWQSEM",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yan Nawa",
+               "short_name" : "Yan Nawa",
+               "types" : [ "political", "sublocality", "sublocality_level_2" ]
+            },
+            {
+               "long_name" : "Sathon",
+               "short_name" : "Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yan Nawa, Sathon, Bangkok 10120, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7218371,
+                  "lng" : 100.5329645
+               },
+               "southwest" : {
+                  "lat" : 13.7096597,
+                  "lng" : 100.5081889
+               }
+            },
+            "location" : {
+               "lat" : 13.7152906,
+               "lng" : 100.5155501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7218371,
+                  "lng" : 100.5329645
+               },
+               "southwest" : {
+                  "lat" : 13.7096597,
+                  "lng" : 100.5081889
+               }
+            }
+         },
+         "place_id" : "ChIJO3KN-siY4jARAI7iXbIAAQQ",
+         "types" : [ "political", "sublocality", "sublocality_level_2" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sathon",
+               "short_name" : "Sathon",
+               "types" : [ "political", "sublocality", "sublocality_level_1" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sathon, Bangkok 10120, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.726156,
+                  "lng" : 100.5536091
+               },
+               "southwest" : {
+                  "lat" : 13.7008691,
+                  "lng" : 100.5081889
+               }
+            },
+            "location" : {
+               "lat" : 13.70832,
+               "lng" : 100.5201019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.726156,
+                  "lng" : 100.5536091
+               },
+               "southwest" : {
+                  "lat" : 13.7008691,
+                  "lng" : 100.5081889
+               }
+            }
+         },
+         "place_id" : "ChIJ0QH_PjWf4jARQE_iXbIAAQM",
+         "types" : [ "political", "sublocality", "sublocality_level_1" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "10120",
+               "short_name" : "10120",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok 10120, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.7263189,
+                  "lng" : 100.554889
+               },
+               "southwest" : {
+                  "lat" : 13.669438,
+                  "lng" : 100.48986
+               }
+            },
+            "location" : {
+               "lat" : 13.6949292,
+               "lng" : 100.5239867
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.7263189,
+                  "lng" : 100.554889
+               },
+               "southwest" : {
+                  "lat" : 13.669438,
+                  "lng" : 100.48986
+               }
+            }
+         },
+         "place_id" : "ChIJaV95Qq6Y4jARYHpDebUAARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "กทม",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.7563309,
+               "lng" : 100.5017651
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.955111,
+                  "lng" : 100.938408
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangkok",
+               "short_name" : "Bangkok",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangkok, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            },
+            "location" : {
+               "lat" : 13.82031,
+               "lng" : 100.6647101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 13.9551109,
+                  "lng" : 100.9384077
+               },
+               "southwest" : {
+                  "lat" : 13.4940881,
+                  "lng" : 100.3278136
+               }
+            }
+         },
+         "place_id" : "ChIJ82ENKDJgHTERxw-LhWOFRTY",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

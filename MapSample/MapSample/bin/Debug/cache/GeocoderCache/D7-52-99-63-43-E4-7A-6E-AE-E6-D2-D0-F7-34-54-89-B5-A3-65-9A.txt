@@ -1,0 +1,366 @@
+﻿{
+   "plus_code" : {
+      "compound_code" : "287M+V5 Khlong Khwang, Sai Noi District, Nonthaburi, Thailand",
+      "global_code" : "7P62287M+V5"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khlong Khwang",
+               "short_name" : "Khlong Khwang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sai Noi District",
+               "short_name" : "อ.ไทรน้อย",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11150",
+               "short_name" : "11150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unnamed Road Khlong Khwang, Sai Noi District, Nonthaburi 11150, Thailand",
+         "geometry" : {
+            "location" : {
+               "lat" : 14.0157798,
+               "lng" : 100.3322349
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.0171287802915,
+                  "lng" : 100.3335838802915
+               },
+               "southwest" : {
+                  "lat" : 14.0144308197085,
+                  "lng" : 100.3308859197085
+               }
+            }
+         },
+         "place_id" : "ChIJqYX2b8uL4jARAwOcMCY9jFQ",
+         "plus_code" : {
+            "compound_code" : "288J+8V Khlong Khwang, Sai Noi District, Nonthaburi, Thailand",
+            "global_code" : "7P62288J+8V"
+         },
+         "types" : [ "establishment", "general_contractor", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "ทางหลวงชนบท นบ.3008",
+               "short_name" : "นบ.3008",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Tambon Khlong Khwang",
+               "short_name" : "Tambon Khlong Khwang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Amphoe Sai Noi",
+               "short_name" : "อ.ไทรน้อย",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chang Wat Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11150",
+               "short_name" : "11150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "นบ.3008 Tambon Khlong Khwang, Amphoe Sai Noi, Chang Wat Nonthaburi 11150, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.0157004,
+                  "lng" : 100.3339388
+               },
+               "southwest" : {
+                  "lat" : 14.0142099,
+                  "lng" : 100.3318266
+               }
+            },
+            "location" : {
+               "lat" : 14.0149581,
+               "lng" : 100.332885
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.0163041302915,
+                  "lng" : 100.3342316802915
+               },
+               "southwest" : {
+                  "lat" : 14.0136061697085,
+                  "lng" : 100.3315337197085
+               }
+            }
+         },
+         "place_id" : "ChIJbR_VfsuL4jARKN4_ic_IikQ",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Khlong Khwang",
+               "short_name" : "Khlong Khwang",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sai Noi District",
+               "short_name" : "อ.ไทรน้อย",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "11150",
+               "short_name" : "11150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Khlong Khwang, Sai Noi District, Nonthaburi 11150, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.0583719,
+                  "lng" : 100.3431686
+               },
+               "southwest" : {
+                  "lat" : 13.9796272,
+                  "lng" : 100.2902093
+               }
+            },
+            "location" : {
+               "lat" : 14.0130632,
+               "lng" : 100.310501
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.0583719,
+                  "lng" : 100.3431686
+               },
+               "southwest" : {
+                  "lat" : 13.9796272,
+                  "lng" : 100.2902093
+               }
+            }
+         },
+         "place_id" : "ChIJ9-ERo7KL4jAR8JYMRTeSAQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "11150",
+               "short_name" : "11150",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nonthaburi 11150, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1403209,
+                  "lng" : 100.356512
+               },
+               "southwest" : {
+                  "lat" : 13.8691171,
+                  "lng" : 100.264026
+               }
+            },
+            "location" : {
+               "lat" : 14.0070928,
+               "lng" : 100.3161126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1403209,
+                  "lng" : 100.356512
+               },
+               "southwest" : {
+                  "lat" : 13.8691171,
+                  "lng" : 100.264026
+               }
+            }
+         },
+         "place_id" : "ChIJFUDMYaaL4jAR8P4wZTqSARw",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sai Noi District",
+               "short_name" : "อ.ไทรน้อย",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sai Noi District, Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.3562149
+               },
+               "southwest" : {
+                  "lat" : 13.8688519,
+                  "lng" : 100.2623644
+               }
+            },
+            "location" : {
+               "lat" : 14.0070928,
+               "lng" : 100.3161126
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.3562149
+               },
+               "southwest" : {
+                  "lat" : 13.8688519,
+                  "lng" : 100.2623644
+               }
+            }
+         },
+         "place_id" : "ChIJFUDMYaaL4jARUFEMRTeSAQM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nonthaburi",
+               "short_name" : "จ.นนทบุรี",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nonthaburi, Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            },
+            "location" : {
+               "lat" : 13.8621125,
+               "lng" : 100.5143528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 14.1403089,
+                  "lng" : 100.5677219
+               },
+               "southwest" : {
+                  "lat" : 13.7888688,
+                  "lng" : 100.2623644
+               }
+            }
+         },
+         "place_id" : "ChIJO6t2z8CE4jARpO5V399Gdpg",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thailand",
+               "short_name" : "TH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thailand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            },
+            "location" : {
+               "lat" : 15.870032,
+               "lng" : 100.992541
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.465143,
+                  "lng" : 105.636812
+               },
+               "southwest" : {
+                  "lat" : 5.613038,
+                  "lng" : 97.343396
+               }
+            }
+         },
+         "place_id" : "ChIJsU1CR_eNTTARAuhXB4gs154",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
